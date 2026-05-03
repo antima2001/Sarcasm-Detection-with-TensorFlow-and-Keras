@@ -77,7 +77,7 @@ Sample predictions:
    python sarcasm_detection.py
    ```
    or open and run the notebook in Jupyter/Colab using below link:
-https://colab.research.google.com/drive/1UhovkBv65QunQuGF4r9-LbRI14_dL-J9#scrollTo=kCQpa0wJVe92
+https://colab.research.google.com/drive/1UhovkBv65QunQuGF4r9-LbRI14_dL-J9?usp=sharing
 
 ## Future Improvements
 
